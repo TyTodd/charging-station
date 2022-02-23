@@ -1,4 +1,4 @@
-I built a commercial cellphone charging station with a team of some friends. The charging station has 8 cells that are actuated with solenoid locks. [You can find out more about the project here.](https://tytodd.wixsite.com/tyrin-ian-todd/charging-station-project)
+I built a commercial cellphone charging station with a team of some friends. The charging station has 8 cells that are actuated with solenoid locks. [You can find out more about the project here.](https://tytodd.wixsite.com/tyrin-ian-todd/charging-station-project).  I enjoyed writing this program because it forced me to think about every way in which a user might use my project and the challenges they run into. I had to think about everything such as: What if the power goes out? What if a user forgets their password? What if the administrator wants to use the charging station to advertise? How can we make it as easy to use as possible? How can we make users want to use the product? And I came up with creative solutions to all of these questions in the code.
 
 There are 6 pages on this GUI each represented by a .pde file. 
 ![Slideshow Page](./src/Slideshow.pde)
